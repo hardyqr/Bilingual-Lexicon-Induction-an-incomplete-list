@@ -1,4 +1,6 @@
-## Bilingual Lexicon Induction and Hubness Problem: an incomplete list
+# Bilingual Lexicon Induction and Hubness Problem: an incomplete list
+
+## Conferences
 
 ### ACL 2008
 Learning Bilingual Lexicons from Monolingual Corpora 
@@ -15,6 +17,10 @@ IMPROVING ZERO-SHOT LEARNING BY MITIGATING THE HUBNESS PROBLEM
 ### ACL 2015
 Hubness and Pollution: Delving into Cross-Space Mapping for Zero-Shot Learning
 [[paper]](https://www.aclweb.org/anthology/P15-1027)
+
+### ECML-PKDD 2015
+Ridge Regression, Hubness, and Zero-Shot Learning
+[[paper]](https://arxiv.org/pdf/1507.00825.pdf)
 
 ### ICLR 2017
 OFFLINE BILINGUAL WORD VECTORS, ORTHOGONAL TRANSFORMATIONS AND THE INVERTED SOFTMAX
@@ -43,4 +49,8 @@ Density Matching for Bilingual Word Embedding
 [[paper]](https://arxiv.org/pdf/1904.02343.pdf)
 
 
+## Journals
 
+JMLR 2010
+Hubs in Space: Popular Nearest Neighbors in High-Dimensional Data
+[[paper]] (http://www.jmlr.org/papers/volume11/radovanovic10a/radovanovic10a.pdf)
