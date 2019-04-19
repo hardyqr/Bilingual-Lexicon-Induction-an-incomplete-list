@@ -53,4 +53,4 @@ Density Matching for Bilingual Word Embedding
 
 JMLR 2010
 Hubs in Space: Popular Nearest Neighbors in High-Dimensional Data
-[[paper]] (http://www.jmlr.org/papers/volume11/radovanovic10a/radovanovic10a.pdf)
+[[paper]](http://www.jmlr.org/papers/volume11/radovanovic10a/radovanovic10a.pdf)
