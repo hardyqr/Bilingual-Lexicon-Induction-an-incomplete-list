@@ -2,6 +2,9 @@
 
 ## Conferences
 
+### NIPS 2004
+Self-Tuning Spectral Clustering
+[[paper]](https://papers.nips.cc/paper/2619-self-tuning-spectral-clustering.pdf)
 ### ACL 2008
 Learning Bilingual Lexicons from Monolingual Corpora 
 [[paper]](https://pdfs.semanticscholar.org/3709/b6cb2ed14c04b60e38d5f75e89c41317e93d.pdf)
@@ -58,6 +61,10 @@ Density Matching for Bilingual Word Embedding
 ### JMLR 2010
 Hubs in Space: Popular Nearest Neighbors in High-Dimensional Data
 [[paper]](http://www.jmlr.org/papers/volume11/radovanovic10a/radovanovic10a.pdf)
+
+### IPAMI 2011
+Accurate image search using the contextual dissimilarity measure
+[[paper]](https://hal.inria.fr/inria-00439311v3/document)
 
 ### JMLR 2012
 Local and Global Scaling Reduce Hubs in Space
