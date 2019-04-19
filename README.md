@@ -6,6 +6,10 @@
 Learning Bilingual Lexicons from Monolingual Corpora 
 [[paper]](https://pdfs.semanticscholar.org/3709/b6cb2ed14c04b60e38d5f75e89c41317e93d.pdf)
 
+### ICML 2009
+Nearest Neighbors in High-Dimensional Data: The Emergence and Influence of Hubs
+[[paper]](https://icml.cc/Conferences/2009/papers/360.pdf)
+
 ### NAACL 2013
 Supervised Bilingual Lexicon Induction with Multiple Monolingual Signals
 [[paper]](https://www.aclweb.org/anthology/N13-1056)
