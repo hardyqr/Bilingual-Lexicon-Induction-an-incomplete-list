@@ -13,6 +13,10 @@ Learning Bilingual Lexicons from Monolingual Corpora
 Nearest Neighbors in High-Dimensional Data: The Emergence and Influence of Hubs
 [[paper]](https://icml.cc/Conferences/2009/papers/360.pdf)
 
+### SIGIR 2010
+On the Existence of Obstinate Results in Vector Space Models
+[[paper]](http://delivery.acm.org/10.1145/1840000/1835482/p186-radovanovic.pdf?ip=129.97.124.21&id=1835482&acc=ACTIVE%20SERVICE&key=FD0067F557510FFB%2E9219CF56F73DCF78%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1555811799_295ca5e0b38c9269cece5ec288cfedb4)
+
 ### NAACL 2013
 Supervised Bilingual Lexicon Induction with Multiple Monolingual Signals
 [[paper]](https://www.aclweb.org/anthology/N13-1056)
