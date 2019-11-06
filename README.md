@@ -93,6 +93,9 @@ Unsupervised Multilingual Word Embeddings
 [[paper]](https://www.aclweb.org/anthology/D18-1024.pdf)
 [[code]](https://github.com/ccsasuke/umwe)
 
+Gromov-Wasserstein Alignment of Word Embedding Spaces
+[[paper]](https://www.aclweb.org/anthology/D18-1214.pdf)
+
 ### NAACL 2019
 Density Matching for Bilingual Word Embedding
 [[paper]](https://arxiv.org/pdf/1904.02343.pdf)
