@@ -100,6 +100,13 @@ Gromov-Wasserstein Alignment of Word Embedding Spaces
 Density Matching for Bilingual Word Embedding
 [[paper]](https://arxiv.org/pdf/1904.02343.pdf)
 
+Learning Unsupervised Multilingual Word Embeddings with Incremental Multilingual Hubs
+[[paper]](https://www.aclweb.org/anthology/N19-1188.pdf)
+
+Aligning Vector-spaces with Noisy Supervised Lexicons
+[[paper]](https://arxiv.org/pdf/1903.10238.pdf)
+[[code]](https://github.com/NoaKel/Noise-Aware-Alignment)
+
 ### AISTATS 2019
 Unsupervised Alignment of Embeddings with Wasserstein Procrustes
 [[paper]](http://proceedings.mlr.press/v89/grave19a/grave19a.pdf)
