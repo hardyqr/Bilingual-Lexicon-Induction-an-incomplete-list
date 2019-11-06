@@ -89,6 +89,10 @@ Loss in Translation: Learning Bilingual Word Mapping with a Retrieval Criterion
 Unsupervised Bilingual Lexicon Induction via Latent Variable Models
 [[paper]](https://www.aclweb.org/anthology/D18-1062)
 
+Unsupervised Multilingual Word Embeddings
+[[paper]](https://www.aclweb.org/anthology/D18-1024.pdf)
+[[code]](https://github.com/ccsasuke/umwe)
+
 ### NAACL 2019
 Density Matching for Bilingual Word Embedding
 [[paper]](https://arxiv.org/pdf/1904.02343.pdf)
