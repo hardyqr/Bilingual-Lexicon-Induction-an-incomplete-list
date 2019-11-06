@@ -97,6 +97,10 @@ Unsupervised Multilingual Word Embeddings
 Density Matching for Bilingual Word Embedding
 [[paper]](https://arxiv.org/pdf/1904.02343.pdf)
 
+### AISTATS 2019
+Unsupervised Alignment of Embeddings with Wasserstein Procrustes
+[[paper]](http://proceedings.mlr.press/v89/grave19a/grave19a.pdf)
+
 ### ICML 2019
 Learning Generative Models across Incomparable Spaces
 [[paper]](https://arxiv.org/pdf/1905.05461.pdf)
