@@ -3,12 +3,12 @@
 ## Conferences
 
 ### NIPS 2004
-**Self-Tuning Spectral Clustering.**
-*Lihi Zelnik-Manor, Pietro Perona.*
+**Self-Tuning Spectral Clustering.** <br>
+*Lihi Zelnik-Manor, Pietro Perona.* <br>
 [[paper]](https://papers.nips.cc/paper/2619-self-tuning-spectral-clustering.pdf)
 ### ACL 2008
-**Learning Bilingual Lexicons from Monolingual Corpora.**
-*Aria Haghighi, Percy Liang, Taylor Berg-Kirkpatrick, Dan Klein.*
+**Learning Bilingual Lexicons from Monolingual Corpora.** <br>
+*Aria Haghighi, Percy Liang, Taylor Berg-Kirkpatrick, Dan Klein.* <br>
 [[paper]](https://pdfs.semanticscholar.org/3709/b6cb2ed14c04b60e38d5f75e89c41317e93d.pdf)
 
 ### ICML 2009
