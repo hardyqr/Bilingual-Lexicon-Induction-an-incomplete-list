@@ -197,7 +197,7 @@
 [[code]](https://github.com/OFAI/hub-toolbox-python3)
 
 ### TACL 2019
-**Learning mul-tilingual word embeddings in latent metric space: a geometric approach.**<br>
+**Learning multilingual word embeddings in latent metric space: a geometric approach.**<br>
 *Pratik Jawanpuria, Arjun Balgovind, Anoop Kunchukuttan, Bamdev Mishra.*<br>
 [[paper]](https://www.aclweb.org/anthology/Q19-1007.pdf)
 
