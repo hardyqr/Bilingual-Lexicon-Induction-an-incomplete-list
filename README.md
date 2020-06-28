@@ -201,6 +201,28 @@
 [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Sigurdsson_Visual_Grounding_in_Video_for_Unsupervised_Word_Translation_CVPR_2020_paper.pdf)
 [[code]](https://github.com/gsig/visual-grounding)
 
+**A Graph-based Coarse-to-fine Method for Unsupervised Bilingual Lexicon Induction.**<br>
+*Shuo Ren, Shujie Liu, Ming Zhou, Shuai Ma.*<br>
+**_(ACL 2020)_**<br>
+[[paper]](https://www.aclweb.org/anthology/2020.acl-main.318.pdf)
+
+
+**A Graph-based Coarse-to-fine Method for Unsupervised Bilingual Lexicon Induction.**<br>
+*Shuo Ren, Shujie Liu, Ming Zhou, Shuai Ma.*<br>
+**_(ACL 2020)_**<br>
+[[paper]](https://www.aclweb.org/anthology/2020.acl-main.318.pdf)
+
+
+**Non-Linear Instance-Based Cross-Lingual Mapping for Non-Isomorphic Embedding Spaces.**<br>
+*Goran Glavaš, Ivan Vulić.*<br>
+**_(ACL 2020)_**<br>
+[[paper]](https://www.aclweb.org/anthology/2020.acl-main.675.pdf)
+
+**Classification-Based Self-Learning for Weakly Supervised Bilingual Lexicon Induction.**<br>
+*Mladen Karan, Ivan Vulić, Anna Korhonen, Goran Glavaš.*<br>
+**_(ACL 2020)_**<br>
+[[paper]](https://www.aclweb.org/anthology/2020.acl-main.618.pdf)
+
 ## Journals
 
 **Hubs in Space: Popular Nearest Neighbors in High-Dimensional Data.**<br>
